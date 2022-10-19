@@ -1,1 +1,1 @@
-# DSA_Algos
+# Add Algorithms with specific folders
